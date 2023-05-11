@@ -1,0 +1,2 @@
+# fuckgit
+for learning git
